@@ -77,8 +77,5 @@ sort($quartiers);
         </ul>
       </footer>
     </div>
-
-    <script src="jquery-3.3.1.min.js"></script>
-    <script src="gijgo.min.js" type="text/javascript"></script>
   </body>
 </html>
